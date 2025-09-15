@@ -1,12 +1,14 @@
 # Microsoft Purview Sensitivity Label Workbook Template
 
+#### This is still a work in Progress! It's in the final stages and ready to use, but we're still adding and changing things to better help people use this tool to plan. 
+
 Hello! The purpose of this Excel workbook Sensitivity Label template is to help you with planning out your Microsoft Purview Sensitivity Labels and to have something to show decision makers the architecture you're proposing to implement rather than walking them through the admin center and having to explain all of the parts in depth just to get to the part that you need them to make decisions on. This tool is meant to be used with the Secure by Default documentation in planning and mimics the admin center to help with easier deployment. I hope that this helps, and you have a wonderful day!
 
 Introduction to 'secure by default' with Microsoft Purview https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro
 
 ## Explanation of Tabs
 
-![alt text](image.png)
+<img width="1820" height="45" alt="Tabs Snippet" src="https://github.com/user-attachments/assets/bd1f2e83-62e2-481b-a6dd-a8db86e9c989" />
 
 - How to use
 
@@ -46,7 +48,7 @@ Introduction to 'secure by default' with Microsoft Purview https://learn.microso
 
 ## Explanation of the informational Section
 
-![alt text](image-1.png) ![alt text](image-2.png)
+<img width="107" height="172" alt="informational +" src="https://github.com/user-attachments/assets/63bdf58b-9d09-429b-a4d6-510017d8349f" /> <img width="107" height="110" alt="informational -" src="https://github.com/user-attachments/assets/e81ec4cd-e91c-44a8-9d33-9c7ff90348d1" />
 
 In the workbook we have included a section on "Explanation" and "Links" to help explain that area and the appropriate links. The way to open and close it is the "+" or "-" sign on the left side of the workbook's numbers. 
 
@@ -56,9 +58,10 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 
 2. Then you would go to "Sensitivity Labels" tab.
 
-    ![alt text](image-3.png) ![alt text](image-4.png) The Label Workbook
+    <img width="894" height="379" alt="Sensitivity Label Fill 1" src="https://github.com/user-attachments/assets/3c9e3a18-f108-433d-8465-bb344b5a36f1" /> <img width="1259" height="246" alt="Sensitivity Label Fill 2" src="https://github.com/user-attachments/assets/20d7a7f0-8d91-4439-a249-ff4c3c7eb27f" />
+The Sensitivty Label Workbook
 
-    ![alt text](image-5.png) Microsoft Purview Sensitivity Label center
+    <img width="1917" height="759" alt="Microsoft Purview Admin Center Label 1" src="https://github.com/user-attachments/assets/93d173ac-146e-4068-95a4-fcbce2808516" /> Microsoft Purview Sensitivity Label admin center
 
 3. There are 3 fields in this tab that MUST BE FILLED OUT for the "Label" to be an option in other tabs. Othar than that you would fill out the rest of the fields in each label as needed and in the priority order you want. 
 
@@ -86,7 +89,7 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 
         4. Groups & Sites: This must be selected if you want this label to be an option in the "Groups & Sites" tab.
 
-        ![alt text](image-6.png)
+        <img width="576" height="533" alt="Label dropdown example 1" src="https://github.com/user-attachments/assets/0ed7068c-16bd-4ba1-a7f7-feae2a77f88e" />
 
     - With everything filled out you will see the label show up in the appropriate tab like above. 
 
@@ -109,7 +112,7 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 
 ## Issues
 
-Please report any issues you find to the [issues list](https://github.com/microsoft/FastTrack/issues).
+Please report any issues you find to the [issues list](https://github.com/NicholasBear-Tech/Bears-Tech/issues).
 
 ## Support Statement
 
