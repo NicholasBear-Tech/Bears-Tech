@@ -57,7 +57,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
     This is to search any Label and or Policies to view what their settings are without jumping through the tabs to see.
 
-## Explanation of the informational Section
+## Explanation of the Informational Section
 
 <img width="107" height="172" alt="informational +" src="https://github.com/user-attachments/assets/63bdf58b-9d09-429b-a4d6-510017d8349f" /> <img width="107" height="110" alt="informational -" src="https://github.com/user-attachments/assets/e81ec4cd-e91c-44a8-9d33-9c7ff90348d1" />
 
@@ -77,7 +77,7 @@ The Sensitivity Label Workbook
 > [!NOTE]  
 > If you select "Parent Label" or "Label Group" Then the "Scope" will be blank since they are meant to be containers for other labels and will not show in the Scopes' tabs. They will also be blank in the "Summery" tab and in the "Search" tab when looking up that "Sensitivity Label".
 
-3. There are 3 fields in this tab that MUST BE FILLED OUT for the "Label" to be an option in other tabs. Othar than that you would fill out the rest of the fields in each label as needed and in the priority order you want. 
+3. There are 3 fields in this tab that MUST BE FILLED OUT for the "Label" to show in other tabs and be configurable. Othar than that you would fill out the rest of the fields in each label as needed and in the priority order you want. 
 
     - The 3 fields are "Label/ParentLabel/LabelGroup/Sub-Label:, "Name:", and "Scope:". 
     
@@ -103,7 +103,7 @@ The Sensitivity Label Workbook
 
         4. Groups & Sites: This must be selected if you want this label to be an option in the "Groups & Sites" tab.
 
-        <img width="576" height="533" alt="Label dropdown example 1" src="https://github.com/user-attachments/assets/0ed7068c-16bd-4ba1-a7f7-feae2a77f88e" />
+        <img width="590" height="263" alt="image" src="https://github.com/user-attachments/assets/e1928aa7-f386-478c-a950-bfb93794245b" />
 
     - With everything filled out you will see the label show up in the appropriate tab like above. 
 
