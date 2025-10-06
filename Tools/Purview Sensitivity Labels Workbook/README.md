@@ -11,7 +11,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 ## Explanation of Tabs
 
-<img width="1820" height="45" alt="Tabs Snippet" src="https://github.com/user-attachments/assets/bd1f2e83-62e2-481b-a6dd-a8db86e9c989" />
+<img width="1024" height="22" alt="image" src="https://github.com/user-attachments/assets/131e7bad-76fb-4ec6-8db8-a0ee9bef7535" />
 
 - How to use
 
