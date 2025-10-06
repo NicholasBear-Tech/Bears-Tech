@@ -70,9 +70,12 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 2. Then you would go to "Sensitivity Labels" tab.
 
     <img width="894" height="379" alt="Sensitivity Label Fill 1" src="https://github.com/user-attachments/assets/3c9e3a18-f108-433d-8465-bb344b5a36f1" /> <img width="1259" height="246" alt="Sensitivity Label Fill 2" src="https://github.com/user-attachments/assets/20d7a7f0-8d91-4439-a249-ff4c3c7eb27f" />
-The Sensitivty Label Workbook
+The Sensitivity Label Workbook
 
     <img width="1917" height="759" alt="Microsoft Purview Admin Center Label 1" src="https://github.com/user-attachments/assets/93d173ac-146e-4068-95a4-fcbce2808516" /> Microsoft Purview Sensitivity Label admin center
+
+> [!NOTE]  
+> If you select "Parent Label" or "Label Group" Then the "Scope" will be blank since they are meant to be containers for other labels and will not show in the Scopes' tabs. They will also be blank in the "Summery" tab and in the "Search" tab when looking up that "Sensitivity Label".
 
 3. There are 3 fields in this tab that MUST BE FILLED OUT for the "Label" to be an option in other tabs. Othar than that you would fill out the rest of the fields in each label as needed and in the priority order you want. 
 
