@@ -37,6 +37,10 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
     This is to the settings that you have for the Scope "Groups & Sites" in the Sensitivity Label. This would be considered container based labeling scope.
 
+- Summary
+
+    This is to see the overview of your Sensitivity Labels in a simpler manner to read for stakeholders or someone that needs to see all the labels and their configurations.
+
 - Publishing
 
     This is to plan out your Sensitivity Label Publishing and its settings.
@@ -48,6 +52,10 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 - Data Loss Prevention (DLP)
 
     This template is meant to be for planning and deploying Sensitivity Labels, meaning that the DLP options are mostly text filled in and do not have all/most options like the other tabs since there are too many options to plan out in a nice manner for planning. It does have every section but not all options. This area is to plan out what DLP policies will be using Sensitivity Labels. I guess you could plan out the ones that don't have them as well since they're mostly filled in.
+
+- Search
+
+    This is to search any Label and or Policies to view what their settings are without jumping through the tabs to see.
 
 ## Explanation of the informational Section
 
