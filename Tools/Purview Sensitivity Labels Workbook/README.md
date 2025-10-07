@@ -65,6 +65,11 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 
 ## Usage
 
+<img width="317" height="418" alt="image" src="https://github.com/user-attachments/assets/283f4ccf-13df-4016-b1e9-b026e592a3cb" />
+
+> [!IMPORTANT]  
+> The "big numbers" on the left side of the workbook are tied together for the "Labels" (Blue) tabs. You'll also use these numbers when looking at the "Summery" and "Search" tabs as well. The other tabs "big numbers" are not directly linked to these "big numbers" hence why they are a different color. 
+
 1. First you should read the "How to Use" tab in case there is anything in there that you need to know or look up. 
 
 2. Then you would go to "Sensitivity Labels" tab.
@@ -112,6 +117,120 @@ The Sensitivity Label Workbook
 5. Then you can fill out the "Publishing" tab and plan out how you're going to push "Publish" labels to end users and the settings for it. 
 
 6. Then you can fill out "Service-side Auto-Labeling" and or "Data Loss Prevention (DLP)" based on your plans to use the labels with them. 
+
+## Summery Tab
+
+<img width="1698" height="140" alt="image" src="https://github.com/user-attachments/assets/6f9b18a0-83bc-4870-b9c0-7060c18d396a" />
+
+This tab is to give you an easier view to read your labels, and what will end up being your "Label Taxonomy". It is a "Read Only" view. If you need to make any changes or view specifics, then you would either go to the appropriate tab or use the "Search" tab to search for the "Label" and or "Policies" that you need to see the configurations of.
+
+Below I will explain where each columns information is pulled and how we are triggering the fields.
+
+- Label/Parent Label/Label Group/Sub-Label:
+  - This is pulled directly from the same section in the "Sensitivity Labels" tab.
+
+- Display Name:
+  - This is pulled directly from the same section in the "Sensitivity Labels" tab.
+      - The reason we decided to do "Display Name" instead of "Name" is because that is what End-Users will see and what most decision makers care about.
+
+- Scope:
+  - This is pulled directly from the same section in the "Sensitivity Labels" tab.
+
+- Description for users:
+  - This is pulled directly from the same section in the "Sensitivity Labels" tab.
+      - The reason we decided to do "Description for users" instead of "Description for Admins" is because that is what End-Users will see and what most decision makers care about.
+
+- Label Color:
+  - This is pulled directly from the same section in the "Sensitivity Labels" tab.
+
+- Emails, Files, & Other Data Assets (Object Based Labeling Functionality)
+    
+    - This is pulled directly from the "Emails, Files, & Other Data" tab. 
+
+    - Access Control:
+
+        <img width="190" height="143" alt="image" src="https://github.com/user-attachments/assets/1c4f36b2-6fa5-4e49-8e79-4ee6d66ebfdf" />
+        
+        - Under "Assign" if the "Assign Permissions now" box or "Let users assign permissions when they apply the label" box is selected then it will be "Encrypted".
+
+        <img width="191" height="163" alt="image" src="https://github.com/user-attachments/assets/3d840b9c-fa6a-4357-9c88-7bfe26ef0281" />
+        
+        - If "Remove access control settings if already applied to items" box is selected under "Remove or Configure" then it will be "Remove Encryption". 
+        
+        - If neither is selected, then it will be "No Encryption".
+        
+    - Content Marking:
+
+        <img width="278" height="181" alt="image" src="https://github.com/user-attachments/assets/10a00883-3e41-402b-be94-89790f4a5279" />
+ 
+        - Under “Content Marking” if “Add a watermark”, “Add a header”, and or “Add a footer” boxes are selected then the answer will be “Yes”.
+    
+    - Auto-labeling for files and emails: "Client-side Auto-Labeling":
+
+        <img width="455" height="176" alt="image" src="https://github.com/user-attachments/assets/b35f4eca-7df4-47a2-9094-c7728c2db27d" />
+  
+        - Under the section of the “same name” if “Auto-labeling for files and emails” box is selected then the answer will be “Yes”. 
+
+- Teams meetings and chats settings:
+  - This is pulled directly from the "Scope" section in the "Sensitivity Labels" tab. 
+
+    <img width="623" height="113" alt="image" src="https://github.com/user-attachments/assets/6d370261-3d93-494c-96e1-3242429e4acd" />
+
+    - If you selected the "Meetings" box under "Scope" in the "Sensitivity Labels" tab then this is will "Yes" in not, then it will be "No".
+
+- Define privacy and external user access settings:
+    -  This is pulled directly from the "Define privacy and external user access settings" section in the "Groups & Sites" tab. 
+
+    - Privacy and external user access:
+ 
+      <img width="326" height="105" alt="image" src="https://github.com/user-attachments/assets/1278bd1a-ae39-488b-bb42-934c826fa9c8" />
+
+        - If you select "Public" or "Private" it will be "Yes"
+        - If you Select "None" or leave "Blank" it will be "No".
+    
+    
+    - Let Microsoft 365 Group owners add people outside your organization to the group as guests:
+        <img width="326" height="105" alt="image" src="https://github.com/user-attachments/assets/a4b6cc9c-1026-49f1-8325-cc73c950e874" />
+        - If you select the box of the "Same" name it will be "Yes" otherwise it will be "No".
+
+- External sharing and Conditional Access:
+
+    - This is pulled directly from the "External sharing and Conditional Access" section in the "Groups & Sites" tab. 
+
+    - Content can be shared with:
+    
+        <img width="287" height="86" alt="image" src="https://github.com/user-attachments/assets/7dc50107-05a2-48ee-b723-f5e8b4389479" />
+
+        - If you select the box of the "Same" name it will be "Yes" otherwise it will be "No".
+
+    - Use Microsoft Entra Conditional Access to protect labeled SharePoint sites:
+    
+        <img width="287" height="87" alt="image" src="https://github.com/user-attachments/assets/9535ee9b-38a4-4a2c-ae7b-399347a1c035" />
+
+        - If you select the box of the "Same" name it will be "Yes" otherwise it will be "No".
+
+- Private teams discoverability and shared channel controls:
+
+    - This is pulled directly from the "Private teams discoverability and shared channel controls" section in the "Groups & Sites" tab. 
+
+    - Allow users to discover private teams that have this label applied:
+      
+        <img width="392" height="131" alt="image" src="https://github.com/user-attachments/assets/2a77c96d-e071-4443-89eb-62c684826e09" />
+ 
+      - If you select the box of the "Same" name it will be "Yes" otherwise it will be "No".
+
+    - Teams shared channels:
+      
+        <img width="389" height="132" alt="image" src="https://github.com/user-attachments/assets/0ca448c4-dc8b-4528-999d-82e705143dfe" />
+
+      - If you selected any "boxes" under "this" section the answer will be "Yes" otherwise it will be "No".  
+
+## Search Tab
+
+<img width="1449" height="800" alt="image" src="https://github.com/user-attachments/assets/08ecfcc9-dd81-4697-a6f6-d88cb0933792" />
+
+This tab is used to search for the "Labels'" and or "Policies'" "configurations" in a "view only" tab.  
+
 
 ## Applies To
 
