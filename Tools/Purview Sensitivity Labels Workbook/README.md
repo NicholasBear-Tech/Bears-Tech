@@ -65,7 +65,7 @@ In the workbook we have included a section on "Explanation" and "Links" to help 
 <img width="317" height="418" alt="image" src="https://github.com/user-attachments/assets/283f4ccf-13df-4016-b1e9-b026e592a3cb" />
 
 > [!IMPORTANT]  
-> The "big numbers" on the left side of the workbook are tied together for the "Labels" (Blue) tabs. You'll also use these numbers when looking at the "Summery" and "Search" tabs as well. The other tabs "big numbers" are not directly linked to these "big numbers" hence why they are a different color. 
+> The "big numbers" on the left side of the workbook are tied together for the "Labels" (Blue) tabs. You'll also use these numbers when looking at the "Summary" and "Search" tabs as well. The other tabs "big numbers" are not directly linked to these "big numbers" hence why they are a different color. 
 
 1. First you should read the "How to Use" tab in case there is anything in there that you need to know or look up. 
 
@@ -77,7 +77,7 @@ The Sensitivity Label Workbook
     <img width="1917" height="759" alt="Microsoft Purview Admin Center Label 1" src="https://github.com/user-attachments/assets/93d173ac-146e-4068-95a4-fcbce2808516" /> Microsoft Purview Sensitivity Label admin center
 
 > [!NOTE]  
-> If you select "Parent Label" or "Label Group" Then the "Scope" will be blank since they are meant to be containers for other labels and will not show in the Scopes' tabs. They will also be blank in the "Summery" tab and in the "Search" tab when looking up that "Sensitivity Label".
+> If you select "Parent Label" or "Label Group" Then the "Scope" will be blank since they are meant to be containers for other labels and will not show in the Scopes' tabs. They will also be blank in the "Summary" tab and in the "Search" tab when looking up that "Sensitivity Label".
 
 3. There are 3 fields in this tab that MUST BE FILLED OUT for the "Label" to show in other tabs and be configurable. Othar than that you would fill out the rest of the fields in each label as needed and in the priority order you want. 
 
@@ -115,7 +115,7 @@ The Sensitivity Label Workbook
 
 6. Then you can fill out "Service-side Auto-Labeling" and or "Data Loss Prevention (DLP)" based on your plans to use the labels with them. 
 
-## Summery Tab
+## Summary Tab
 
 <img width="1698" height="140" alt="image" src="https://github.com/user-attachments/assets/6f9b18a0-83bc-4870-b9c0-7060c18d396a" />
 
