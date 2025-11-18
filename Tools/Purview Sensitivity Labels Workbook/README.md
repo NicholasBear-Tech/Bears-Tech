@@ -239,8 +239,8 @@ This tab is used to search for the "Labels'" and or "Policies'" "configurations"
 
 |Author|Original Publish Date|Last Updated Date
 |----|--------------------------|--------------
-| Nicholas Bear | September 15, 2025 | October 22, 2025
-| Thomas Reed | September 15, 2025 | October 22, 2025
+| Nicholas Bear | September 15, 2025 | November 18, 2025
+| Thomas Reed | September 15, 2025 | November 18, 2025
 
 ## Issues
 
