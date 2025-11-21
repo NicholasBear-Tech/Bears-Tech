@@ -6,7 +6,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 [Enabling "Groups & Sites" funcationality to Sensitivity Labels](https://www.linkedin.com/pulse/how-enable-container-based-groups-sites-sensitivity-label-bear-pberc/)
 
-[Download the Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.6%20-%20Fill%20In.xlsx)
+[Download the Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.8%20-%20Fill%20In.xlsx)
 
 ## Explanation of Tabs
 
@@ -85,7 +85,7 @@ The Sensitivity Label Workbook
 
     - The 3 fields are "Label/ParentLabel/LabelGroup/Sub-Label:, "Name:", and "Scope:". 
     
-    - In "Label/Parent Label/Label Group/Sub-Label:" your options are "Parent Label, Label Group, Label, and Sub Label.". A quick explanation and which to use are below. The options that you have to select for this to show in other tabs are "Labels and Sub Labels" since "Parent Labels and Label Groups" are containers for labels and not meant/don't have labels (Scopes).
+    - In "Label/Parent Label/Label Group/Sub-Label:" your options are "Parent Label, Label Group, Label, and Sub Label.". A quick explanation and which to use are below. The options that you have to select for this to show in other tabs and be configurable are "Labels and Sub Labels" since "Parent Labels and Label Groups" are containers for labels and not meant/don't have labels (Scopes).
 
         1. Label: This is a Label 
     
@@ -239,8 +239,8 @@ This tab is used to search for the "Labels'" and or "Policies'" "configurations"
 
 |Author|Original Publish Date|Last Updated Date
 |----|--------------------------|--------------
-| Nicholas Bear | September 15, 2025 | October 22, 2025
-| Thomas Reed | September 15, 2025 | October 22, 2025
+| Nicholas Bear | September 15, 2025 | November 18, 2025
+| Thomas Reed | September 15, 2025 | November 18, 2025
 
 ## Issues
 
