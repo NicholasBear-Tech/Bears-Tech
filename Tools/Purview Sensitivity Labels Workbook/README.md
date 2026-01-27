@@ -4,7 +4,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 [Introduction to 'secure by default' with Microsoft Purview](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro)
 
-[Enabling "Groups & Sites" funcationality to Sensitivity Labels](https://www.linkedin.com/pulse/how-enable-container-based-groups-sites-sensitivity-label-bear-pberc/)
+[Enabling "Groups & Sites" functionality to Sensitivity Labels](https://www.linkedin.com/pulse/how-enable-container-based-groups-sites-sensitivity-label-bear-pberc/)
 
 [Migrate parent sensitivity labels to label groups](https://learn.microsoft.com/en-us/purview/migrate-sensitivity-label-scheme)
 
