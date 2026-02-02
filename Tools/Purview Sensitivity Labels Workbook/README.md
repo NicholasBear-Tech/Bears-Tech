@@ -10,7 +10,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 [Download the Blank Fill In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.8%20-%20Fill%20In.xlsx)
 
-[Download the Secure by Defualt Filled In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.8%20-%20Secure%20by%20Defualt.xlsx)
+[Download the Secure by Default Filled In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.8%20-%20Secure%20by%20Default.xlsx)
 
 ## Explanation of Tabs
 
