@@ -10,6 +10,8 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
     <img width="955" height="535" alt="Sensitivity Label Workbook Thumbnail" src="https://github.com/user-attachments/assets/fd0dfb2d-6997-4511-98bd-55033470a1d8" />
   </a>
 </p>
+> [!NOTE]  
+> Click the Picture above to watch the video
 
 [Introduction to 'secure by default' with Microsoft Purview](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro)
 
