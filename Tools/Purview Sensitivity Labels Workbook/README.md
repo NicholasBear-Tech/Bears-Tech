@@ -2,7 +2,11 @@
 
 Hello! The purpose of this Excel workbook Sensitivity Label template is to help you with planning out your Microsoft Purview Sensitivity Labels and to have something to show decision makers the architecture you're proposing to implement rather than walking them through the admin center and having to explain all of the parts in depth just to get to the part that you need them to make decisions on. This tool is meant to be used with the Secure by Default documentation in planning and mimics the admin center to help with easier deployment. I hope that this helps, and you have a wonderful day!
 
-[![Watch the video](https://img.youtube.com)](https://youtu.be/Mng9scxxTlY)
+<p align="center">
+  <a href="https://youtu.be/Mng9scxxTlY">
+    <img src="https://img.youtube.com" alt="Watch the video" width="600">
+  </a>
+</p>
 
 [Introduction to 'secure by default' with Microsoft Purview](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro)
 
