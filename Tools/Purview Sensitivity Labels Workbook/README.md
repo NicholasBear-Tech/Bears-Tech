@@ -11,7 +11,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
   </a>
 </p>
 
-> [!NOTE]  
+> [!IMPORTANT]  
 > Click the Picture above to watch the video
 
 [Introduction to 'secure by default' with Microsoft Purview](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro)
