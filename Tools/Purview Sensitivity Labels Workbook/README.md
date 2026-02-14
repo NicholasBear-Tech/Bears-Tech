@@ -7,7 +7,7 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 <p align="center">
   <a href="https://youtu.be/Mng9scxxTlY">
-    <img width="955" height="535" alt="Sensitivity Label Workbook Thumbnail" src="https://github.com/user-attachments/assets/fd0dfb2d-6997-4511-98bd-55033470a1d8" alt="Watch the video" width="600" />
+    <img width="955" height="535" alt="Sensitivity Label Workbook Thumbnail" src="https://github.com/user-attachments/assets/fd0dfb2d-6997-4511-98bd-55033470a1d8" />
   </a>
 </p>
 
