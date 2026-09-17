@@ -19,9 +19,11 @@ Hello! The purpose of this Excel workbook Sensitivity Label template is to help 
 
 [Migrate parent sensitivity labels to label groups](https://learn.microsoft.com/en-us/purview/migrate-sensitivity-label-scheme)
 
+[End User Training for Sensitivity Labels in M365 – How to Accelerate Your Adoption](https://techcommunity.microsoft.com/blog/microsoft-security-blog/end-user-training-for-sensitivity-labels-in-m365-%E2%80%93-how-to-accelerate-your-adopti/1750880)
+
 [Download the Blank Fill In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.9%20-%20Fill%20In.xlsx)
 
-[Download the Secure by Default Filled In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.9%20-%20Secure%20by%20Default.xlsx)
+[Download the Secure by Default Filled In Workbook Here](https://github.com/NicholasBear-Tech/Bears-Tech/raw/refs/heads/main/Tools/Purview%20Sensitivity%20Labels%20Workbook/Sensitivity%20Label%20Workbook%20v1.9.1%20-%20Secure%20by%20Default.xlsx)
 
 ## Explanation of Tabs
 
